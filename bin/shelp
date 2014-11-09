@@ -1,0 +1,21 @@
+#!/usr/bin/env node
+
+if (process.argv.length != 3) {
+	console.warn('You need to give the command name you are interested in.');
+	process.exit(1);
+}
+
+var fs = require('fs');
+var path = require('path');
+
+var command_name = process.argv[2];
+var readme_path = path.join(__dirname, '../command', command_name, 'README.md');
+
+fs.readFile(readme_path, {encoding: 'utf8'}, function (err, data) {
+	if (err) {
+		console.warn('No documentation for ' + command_name);
+		process.exit(1);
+	}
+
+	process.stdout.write(data);
+});
