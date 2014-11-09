@@ -1,0 +1,28 @@
+{
+  "name": "shelp",
+  "bin": {
+    "shelp": "./bin/shelp"
+  },
+  "version": "0.1.0",
+  "description": "Shell help",
+  "main": "./bin/shelp",
+  "scripts": {
+    "test": "coffee test/main.coffee.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MattMS/shelp.git"
+  },
+  "keywords": [
+    "man"
+  ],
+  "author": "Matt McKellar-Spence",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MattMS/shelp/issues"
+  },
+  "homepage": "https://github.com/MattMS/shelp",
+  "devDependencies": {
+    "coffee-script": "^1.8.0"
+  }
+}
