@@ -1,4 +1,4 @@
 # pwd
 
-Present Working Directory
-: Your current position in the file system.
+Show your Present Working Directory, which is your current position in
+the file system.
