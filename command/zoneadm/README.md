@@ -1,5 +1,9 @@
 # zoneadm
 
+`zoneadm` without any arguments will print a help message that shows
+usage and a list of subcommands.
+
+
 ## General subcommands
 
 	zoneadm help
