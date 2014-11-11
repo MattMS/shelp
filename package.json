@@ -14,6 +14,8 @@
     "url": "https://github.com/MattMS/shelp.git"
   },
   "keywords": [
+    "bash",
+    "help",
     "man"
   ],
   "author": "Matt McKellar-Spence",
