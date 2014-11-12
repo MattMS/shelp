@@ -21,15 +21,15 @@ This means the entire file-system will be searched.
 
 `-type` can be:
 
-- f: regular file
+- `f` for regular file
 
-- d: directory
+- `d` for directory
 
-- l: symbolic link
+- `l` for symbolic link
 
-- c: character devices
+- `c` for character devices
 
-- b: block devices
+- `b` for block devices
 
 
 ## Search by file size
@@ -38,15 +38,15 @@ This means the entire file-system will be searched.
 
 `-size` can be:
 
-- c: bytes
+- `c` for bytes
 
-- b: 512-byte blocks
+- `b` for 512-byte blocks
 
-- k: Kilobytes
+- `k` for Kilobytes
 
-- M: Megabytes
+- `M` for Megabytes
 
-- G: Gigabytes
+- `G` for Gigabytes
 
 
 ## Search by owner, group or permission
