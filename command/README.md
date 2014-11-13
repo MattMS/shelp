@@ -1,7 +1,7 @@
 # Commands
 
-This page gives a very basic summary of each command.
-Follow the links to learn more possible actions.
+This is a very basic summary of commands, grouped by purpose.
+Follow the links to view the command usage.
 
 
 ## Navigation
