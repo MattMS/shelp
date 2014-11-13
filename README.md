@@ -9,8 +9,21 @@ central repo that I (and hopefully others) will find useful.
 
 ## Getting started
 
-You can view pages on GitHub or install for console access.
+You can view these pages on [GitHub][1] or install for console access.
+Make sure you have [Node.js](http://nodejs.org/) installed.
 
 	npm install -g shelp
 
 You need to install it globally to get the `shelp` command.
+
+[1]: https://github.com/MattMS/shelp/tree/master/command
+
+
+## Goals
+
+- All content in basic Markdown.
+
+- Content is sent to stdout so it can be piped to [less](command/less/)
+  or other tools.
+
+- Each code example should only have 1 paragraph before and/or after it.
