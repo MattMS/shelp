@@ -73,10 +73,3 @@ Save errors to `errors.txt`:
 Ignore errors:
 
 	find / -name "my_file_name" 2>/dev/null
-
-
-## Links
-
-- http://www.codecoffee.com/tipsforlinux/articles/21.html
-
-- https://www.digitalocean.com/community/tutorials/how-to-use-find-and-locate-to-search-for-files-on-a-linux-vps

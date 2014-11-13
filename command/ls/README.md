@@ -27,8 +27,3 @@ You can do this from anywhere.
 
 The first lists your home folder.
 The second lists the root folder.
-
-
-## Links
-
-- [ls | Wikipedia](http://en.wikipedia.org/wiki/Ls)

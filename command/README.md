@@ -36,8 +36,3 @@ Follow the links to learn more possible actions.
 - [mkdir](./mkdir/) to create a folder.
 
 - [touch](./touch/) to create an empty file.
-
-
-## Useful links
-
-- [50 Most Frequently Used UNIX / Linux Commands (With Examples)](http://www.thegeekstuff.com/2010/11/50-linux-commands/ "2010-11-08")
