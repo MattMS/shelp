@@ -1,37 +1,41 @@
 # Commands
 
+This page gives a very basic summary of each command.
+Follow the links to learn more possible actions.
+
+
 ## Navigation
 
-- [cd](./cd/)
+- [cd](./cd/) to change folder.
 
-- [pwd](./pwd/)
+- [pwd](./pwd/) to print which folder you are in.
 
 
 ## Search
 
-- [find](./find/)
+- [find](./find/) to search by file name or other attributes.
 
-- [grep](./grep/)
+- [grep](./grep/) to search by file contents.
 
-- [which](./which/)
+- [which](./which/) to show if and where the command is installed.
 
 
 ## View contents of files
 
-- [cat](./cat/)
+- [cat](./cat/) to print the full contents of files.
  
-- [less](./less/)
+- [less](./less/) to open a file content viewer.
  
-- [tail](./tail/)
+- [tail](./tail/) to print the last few lines of a file.
 
 
 ## Create files and folders
 
-- [ln](./ln/)
+- [ln](./ln/) to create a link to a file or folder.
 
-- [mkdir](./touch/)
+- [mkdir](./mkdir/) to create a folder.
 
-- [touch](./touch/)
+- [touch](./touch/) to create an empty file.
 
 
 ## Useful links
