@@ -36,3 +36,12 @@ Follow the links to learn more possible actions.
 - [mkdir](./mkdir/) to create a folder.
 
 - [touch](./touch/) to create an empty file.
+
+
+## Check resources
+
+- [df](./df/) to print how much disk space is free.
+
+- [du](./du/) to print the disk usage (size) of files or folders.
+
+- [top](./top/) to open a process resource monitor.
