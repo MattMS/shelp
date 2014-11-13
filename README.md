@@ -16,7 +16,7 @@ Make sure you have [Node.js](http://nodejs.org/) installed.
 
 You need to install it globally to get the `shelp` command.
 
-[1]: https://github.com/MattMS/shelp/tree/master/command
+[1]: https://github.com/MattMS/shelp/tree/master/command#readme
 
 
 ## Goals
