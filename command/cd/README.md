@@ -26,3 +26,8 @@ This is assuming there is a folder called "folder_name" in your
 	cd /
 
 The root is the top level, it has not parent folder.
+
+
+## Links
+
+- [cd on Wikipedia](http://en.wikipedia.org/wiki/Cd_%28command%29)
