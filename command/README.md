@@ -8,6 +8,8 @@ Follow the links to view the command usage.
 
 - [cd](./cd/) to change folder.
 
+- [ls](./ls/) to show contents of the current folder.
+
 - [pwd](./pwd/) to print which folder you are in.
 
 
