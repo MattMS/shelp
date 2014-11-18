@@ -73,3 +73,8 @@ Save errors to `errors.txt`:
 Ignore errors:
 
 	find / -name "my_file_name" 2>/dev/null
+
+
+## Links
+
+- [find on Wikipedia](http://en.wikipedia.org/wiki/Find)

@@ -8,6 +8,8 @@ Follow the links to view the command usage.
 
 - [cd](./cd/) to change folder.
 
+- [ls](./ls/) to show contents of the current folder.
+
 - [pwd](./pwd/) to print which folder you are in.
 
 
@@ -23,9 +25,9 @@ Follow the links to view the command usage.
 ## View contents of files
 
 - [cat](./cat/) to print the full contents of files.
- 
+
 - [less](./less/) to open a file content viewer.
- 
+
 - [tail](./tail/) to print the last few lines of a file.
 
 
