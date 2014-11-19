@@ -27,7 +27,7 @@ everyone else has no access.
 
 They user type must be specified:
 
-- `u` for owner of the file.
+- `u` for the owner of the file.
 
 - `g` for users in the file's group.
 
