@@ -29,7 +29,7 @@ They user type must be specified:
 
 - `u` for owner of the file.
 
-- `g` for owners in the file's group.
+- `g` for users in the file's group.
 
 - `o` for everyone else.
 
