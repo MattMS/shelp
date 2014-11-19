@@ -46,4 +46,6 @@ Follow the links to view the command usage.
 
 - [du](./du/) to print the disk usage (size) of files or folders.
 
+- [free](./free/) to print memory usage.
+
 - [top](./top/) to open a process resource monitor.
