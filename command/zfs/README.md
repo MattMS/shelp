@@ -1,5 +1,5 @@
 # zfs
 
-Man page contains useful descriptions:
+## Subcommands
 
-	man zfs
+- [list](./list/) to print property information.
