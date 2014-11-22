@@ -26,9 +26,11 @@ Follow the links to view the command usage.
 
 - [cat](./cat/) to print the full contents of files.
 
+- [head](./head/) to print the first 10 lines of a file.
+
 - [less](./less/) to open a file content viewer.
 
-- [tail](./tail/) to print the last few lines of a file.
+- [tail](./tail/) to print the last 10 lines of a file.
 
 
 ## Create files and folders

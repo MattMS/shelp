@@ -1,5 +1,7 @@
 # zfs
 
-Man page contains useful descriptions:
+## Subcommands
 
-	man zfs
+- [help](./help/) to print information on subcommands.
+
+- [list](./list/) to print property information.
