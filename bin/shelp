@@ -1,20 +1,21 @@
 #!/usr/bin/env node
 
-if (process.argv.length < 3) {
-	console.warn('You need to give the command name you are interested in.');
-	process.exit(1);
-}
-
 var fs = require('fs');
 var path = require('path');
 
-var command_name_parts = process.argv.slice(2);
-var command_name = command_name_parts.join(' ');
+var command_name_parts, command_name;
+var readme_path_parts = [__dirname, '..', 'command'];
 
-var readme_path_parts = [__dirname, '..', 'command'].concat(command_name_parts);
+if (process.argv.length >= 3) {
+	command_name_parts = process.argv.slice(2);
+	command_name = command_name_parts.join(' ');
+	readme_path_parts = readme_path_parts.concat(command_name_parts);
+}
+
 readme_path_parts.push('README.md');
 
 var readme_path = path.join.apply(null, readme_path_parts);
+
 var stream = fs.createReadStream(readme_path);
 
 stream.on('error', function () {
