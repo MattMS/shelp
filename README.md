@@ -7,7 +7,7 @@ My thought is to record basic shell tasks I have had to search for in a
 central repo that I (and hopefully others) will find useful.
 
 
-## Install
+## View online or install
 
 You can view these pages on [GitHub][1] or install for console access.
 Make sure you have [Node.js](http://nodejs.org/) installed.
