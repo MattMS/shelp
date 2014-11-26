@@ -1,9 +1,5 @@
 # Commands
 
-This is a very basic summary of commands, grouped by purpose.
-Follow the links to view the command usage.
-
-
 ## Navigation
 
 - [cd](./cd/) to change folder.
