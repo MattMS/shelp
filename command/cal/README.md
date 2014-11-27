@@ -1,15 +1,12 @@
 # cal
 
-## Print the month calendar
+Print the month calendar.
 
-Displays the week days horizontally. Either works.
+Alternative to [ncal](../ncal/).
 
 	cal
-	ncal -b
 
-Displays the week days vertically.
-
-	ncal
+Displays the week days horizontally.
 
 
 ## Links
