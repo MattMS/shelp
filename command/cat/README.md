@@ -1,6 +1,6 @@
 # cat
 
-## Print contents of a file
+Print contents of a file:
 
 	cat my_file
 
