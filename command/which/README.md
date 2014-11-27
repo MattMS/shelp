@@ -1,6 +1,6 @@
 # which
 
-## Find where command is located
+Find where the given command is located (if installed):
 
 	which cat
 
