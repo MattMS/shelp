@@ -1,15 +1,5 @@
 # apt-cache
 
-Used for getting information on Ubuntu packages.
+- [search](./search/) to find packages.
 
-These can print a lot of content, so [less](../less/) may be useful.
-
-
-## Search for a package
-
-	apt-cache search python
-
-
-## Print details of a package
-
-	apt-cache show python3
+- [show](./show/) to print details of a package.
