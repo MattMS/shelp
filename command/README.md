@@ -6,9 +6,9 @@
 
 - [ls](./ls/) to show contents of the current folder.
 
-- `popd`
+- [popd](./popd/) to return to the folder saved with `pushd`.
 
-- `pushd`
+- [pushd](./pushd/) to save the current folder and move to another.
 
 - [pwd](./pwd/) to print which folder you are in.
 
