@@ -74,7 +74,7 @@
 
 - `sed`
 
-- `tee` to save a copy of the given file.
+- [tee](./tee/) to save a copy of the given file.
 
 - `vim` is a general text editor.
   Useful for editing single or multiple files.
