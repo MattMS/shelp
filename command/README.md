@@ -36,9 +36,9 @@
 
 - [touch](./touch/) to create an empty file.
 
-- `rm` to delete a file.
+- [rm](./rm/) to delete files or folders.
 
-- `rmdir` to delete a folder.
+- [rmdir](./rmdir/) to delete an empty folder.
 
 
 ### File and folder security
