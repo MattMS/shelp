@@ -32,7 +32,7 @@
 
 - [mkdir](./mkdir/) to create a folder.
 
-- `mv` to move files.
+- [mv](./mv/) to rename or move a file or folder.
 
 - [touch](./touch/) to create an empty file.
 
