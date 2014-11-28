@@ -12,6 +12,8 @@
 
 - [pwd](./pwd/) to print which folder you are in.
 
+- [pwdx](./pwdx/) to print which folder a process is in.
+
 
 ### Search by name or contents
 
@@ -24,7 +26,7 @@
 
 ## Modify the file system
 
-- `cp` to copy files.
+- [cp](./cp/) to copy files.
 
 - [ln](./ln/) to create a link to a file or folder.
 
@@ -43,9 +45,9 @@
 
 - `chgrp`
 
-- `chmod`
+- [chmod](./chmod/) to change permissions of a file or folder.
 
-- `chown`
+- [chown](./chown/) to change owner and group of a file or folder.
 
 
 ## View file contents
@@ -67,14 +69,15 @@
 
 - `ed`
 
-- `nano`
+- `nano` is a basic text editor.
+  Useful for editing single files.
 
 - `sed`
 
 - `tee` to save a copy of the given file.
 
 - `vim` is a general text editor.
-  Useful for single or multiple files.
+  Useful for editing single or multiple files.
 
 
 ### File compression tools
@@ -110,9 +113,9 @@
 
 ## Manage packages
 
-- `apt-cache`
+- [apt-cache](./apt-cache/) to print package details.
 
-- `apt-get`
+- [apt-get](./apt-get/) to install packages.
 
 
 ## Networking tools
