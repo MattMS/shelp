@@ -4,26 +4,13 @@ These commands will need to be run as root, so prefix with `sudo`.
 
 Package locations are stored in `/etc/apt/sources.list`.
 
-
-## Install a package
-
-	apt-get install my_desired_package
-
-Installs dependencies of the specified package.
-Provides the list of dependencies for confirmation before installing
-them.
+- [install](./install/) to install a package.
 
 
-## Update information about known packages
+## Update
 
-	apt-get update
+- [dist-upgrade](./dist-upgrade/) to upgrade packages (delete old).
 
+- [update](./update/) to update information about known packages.
 
-## Update all packages and remove unused ones
-
-	apt-get dist-upgrade
-
-
-## Update all packages but do not remove unused ones
-
-	apt-get upgrade
+- [upgrade](./upgrade/) to upgrade packages (no deletes).
