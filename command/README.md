@@ -56,7 +56,7 @@
 
 - [diff](./diff/) to get line differences between text files.
 
-- [echo](./diff/) to print a line of text.
+- [echo](./echo/) to print a line of text.
 
 - [head](./head/) to print the first 10 lines of a file.
 
