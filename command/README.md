@@ -43,7 +43,7 @@
 
 ### File and folder security
 
-- `chgrp`
+- [chgrp](./chgrp/) to change the group a file or folder belongs to.
 
 - [chmod](./chmod/) to change permissions of a file or folder.
 
