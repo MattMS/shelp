@@ -54,7 +54,7 @@
 
 - [cat](./cat/) to print the full contents of files.
 
-- `diff`
+- [diff](./diff/) to get line differences between text files.
 
 - `echo`
 
