@@ -82,9 +82,9 @@
 
 ### File compression tools
 
-- `gunzip`
+- [gunzip](./gunzip/) decompresses a file.
 
-- `gzip`
+- [gzip](./gzip/) compresses a file.
 
 
 ## View resources
