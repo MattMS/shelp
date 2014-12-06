@@ -122,4 +122,4 @@
 
 - `ip`
 
-- `ping`
+- [ping](./ping/) to test connectivity over the network.
