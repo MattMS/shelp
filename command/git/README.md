@@ -9,6 +9,8 @@ Local and distributed version control of files.
 
 - [diff](./diff/) for checking differences between files.
 
+- [tag](./tag/) to add, manage and view tags.
+
 
 ## Links
 
