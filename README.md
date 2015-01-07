@@ -25,7 +25,7 @@ You need to install it globally to get the `shelp` command.
   72 columns is preferred, where possible.
 
 - Content is sent to stdout so it can be piped to [less](command/less/)
-  or other tools.
+  or other display tools.
 
-- Each code example should only have 1 paragraph before and/or after it.
-  This is to encourage simple explanations and not a fixed rule.
+- Each example should only have 1 paragraph before and/or after it.
+  This is not a fixed rule, but encourages simple explanations.
