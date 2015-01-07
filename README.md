@@ -1,27 +1,28 @@
 # Shell help
 
-I started this after becoming frustrated at various `man` and `--help`
-pages that do not provide decent examples.
+This was created to fill in for the various `man` and `--help` pages
+missing decent examples.
 
-My thought is to record basic shell tasks I have had to search for in a
-central repo that I (and hopefully others) will find useful.
+The focus is clear examples and explanations of shell tasks.
 
 
 ## View online or install
 
-You can view these pages on [GitHub][1] or install for console access.
-Make sure you have [Node.js](http://nodejs.org/) installed.
+You can view these pages on
+[GitHub](https://github.com/MattMS/shelp/tree/master/command#readme)
+or install the
+[Node.js](http://nodejs.org/) package for console access.
 
 	npm install -g shelp
 
-You need to install it globally to get the `shelp` command.
+It needs to be installed globally to provide the `shelp` command:
 
-[1]: https://github.com/MattMS/shelp/tree/master/command#readme
+	shelp npm ls
 
 
 ## Goals
 
-- All content in basic Markdown.
+- All content is in basic Markdown.
   72 columns is preferred, where possible.
 
 - Content is sent to stdout so it can be piped to [less](command/less/)
