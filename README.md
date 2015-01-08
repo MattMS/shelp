@@ -30,3 +30,6 @@ It needs to be installed globally to provide the `shelp` command:
 
 - Each example should only have 1 paragraph before and/or after it.
   This is not a fixed rule, but encourages simple explanations.
+
+- All that said, any help is better than no help.
+  It can always be cleaned up later.
