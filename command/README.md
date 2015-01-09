@@ -67,12 +67,8 @@
 
 ## Modify file contents
 
-- `ed`
-
 - `nano` is a basic text editor.
   Useful for editing single files.
-
-- `sed`
 
 - [tee](./tee/) to save a copy of the given file.
 
