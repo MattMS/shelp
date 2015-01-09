@@ -101,14 +101,14 @@
 
 ### View processes
 
-- `ps`
+- [ps](./ps/) to print details on processes.
 
 - [top](./top/) to open a process resource monitor.
 
 
 ## Modify processes
 
-- `kill`
+- [kill](./kill/) to send signals to processes.
 
 
 ## Manage packages
@@ -120,6 +120,6 @@
 
 ## Networking tools
 
-- `ip`
+- [ip](./ip/) to print routing information.
 
 - [ping](./ping/) to test connectivity over the network.
