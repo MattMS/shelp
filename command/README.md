@@ -123,8 +123,8 @@
 
 ## Scripting
 
-- [node](./node/) to run '.js' scripts.
+- [node](./node/) to run `.js` scripts.
   [npm](./npm/) to install packages.
 
-- [python](./python/) to run '.py' scripts.
+- [python](./python/) to run `.py` scripts.
   [pip](./pip/) to install packages.
