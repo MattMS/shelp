@@ -119,3 +119,12 @@
 - [ip](./ip/) to print routing information.
 
 - [ping](./ping/) to test connectivity over the network.
+
+
+## Scripting
+
+- [node](./node/) to run '.js' scripts.
+  [npm](./npm/) to install packages.
+
+- [python](./python/) to run '.py' scripts.
+  [pip](./pip/) to install packages.
