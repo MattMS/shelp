@@ -1,5 +1,8 @@
 # Commands
 
+[git](./git/) for tracking and managing changes to text files.
+
+
 ## Navigate the file system
 
 - [cd](./cd/) to change folder.
