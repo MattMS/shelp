@@ -3,7 +3,7 @@
 Add changes to the stage, ready to commit.
 
 
-## Add a file
+## Add changes to a file
 
 	git add my_file
 
