@@ -9,7 +9,9 @@ It is useful as a tutorial and later as a reference.
 
 ## Getting started
 
-- [git init](./init/) to start using git.
+- [git clone](./clone/) to work on an existing repository.
+
+- [git init](./init/) to start a new repository.
 
 
 ## Help
