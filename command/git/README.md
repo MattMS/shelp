@@ -7,13 +7,6 @@ If you are new to Git, you should check out
 It is useful as a tutorial and later as a reference.
 
 
-## Getting started
-
-- [git clone](./clone/) to work on an existing repository.
-
-- [git init](./init/) to start a new repository.
-
-
 ## Help
 
 	git help
@@ -28,7 +21,16 @@ For a list of common commands.
 Opens a help viewer on the `init` command.
 
 
+## Getting started
+
+- [clone](./clone/) to work on an existing repository.
+
+- [init](./init/) to start a new repository.
+
+
 ## Stage
+
+The stage is where you can work on changes before committing them.
 
 - [add](./add/) to stage changes to files.
 
