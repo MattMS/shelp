@@ -34,7 +34,7 @@ Opens a help viewer on the `init` command.
 
 - [commit](./commit/) to save the staged changes as a commit.
 
-- [diff](./diff/) for printing changes to files.
+- [diff](./diff/) for viewing changes to files.
 
 - [mv](./mv/) to move or rename files.
 
