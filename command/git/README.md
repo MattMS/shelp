@@ -36,6 +36,8 @@ Opens a help viewer on the `init` command.
 
 - [diff](./diff/) for printing changes to files.
 
+- [mv](./mv/) to move or rename files.
+
 
 ## History
 
