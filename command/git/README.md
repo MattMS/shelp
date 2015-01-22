@@ -38,6 +38,8 @@ Opens a help viewer on the `init` command.
 
 - [mv](./mv/) to move or rename files.
 
+- [rm](./rm/) to delete files.
+
 
 ## History
 
