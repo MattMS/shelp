@@ -14,3 +14,12 @@ Package locations are stored in `/etc/apt/sources.list`.
 - [update](./update/) to update information about known packages.
 
 - [upgrade](./upgrade/) to upgrade packages (no deletes).
+
+
+## Clean
+
+Steps I use to clean up and upgrade packages:
+
+	sudo apt-get update
+	sudo apt-get dist-upgrade
+	sudo apt-get clean
