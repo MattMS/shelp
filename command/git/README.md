@@ -4,7 +4,7 @@ Local and distributed version control of files.
 
 If you are new to Git, you should check out
 [gitref.org](http://gitref.org/).
-It is useful as a tutorial and later as a reference.
+It can be read as a tutorial and then used as a reference.
 
 
 ## Help
