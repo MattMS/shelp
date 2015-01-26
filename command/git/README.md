@@ -49,6 +49,8 @@ The stage is where you can work on changes before committing them.
 
 - [checkout](./checkout/) to create or move to another branch.
 
+- [merge](./merge/) to merge another branch into your current one.
+
 - [stash](./stash/) for saving changes while moving between branches.
 
 
