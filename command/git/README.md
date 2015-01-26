@@ -51,7 +51,8 @@ The stage is where you can work on changes before committing them.
 
 - [merge](./merge/) to merge another branch into your current one.
 
-- [stash](./stash/) for saving changes while moving between branches.
+- [stash](./stash/) to save changes (without committing) while moving
+  between branches.
 
 
 ## History
