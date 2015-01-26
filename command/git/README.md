@@ -44,6 +44,8 @@ The stage is where you can work on changes before committing them.
 
 - [rm](./rm/) to delete files.
 
+- [status](./status/) to view staged and unstaged files.
+
 
 ## Branches
 
