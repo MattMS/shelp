@@ -49,6 +49,10 @@ The stage is where you can work on changes before committing them.
 
 ## Branches
 
+Branches let you keep different versions (commit histories) of your
+code.
+They are useful for testing ideas that may be saved or discarded later.
+
 - [branch](./branch/) to view and manage branches.
 
 - [checkout](./checkout/) to create or move to another branch.
