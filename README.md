@@ -1,17 +1,19 @@
 # Shell help
 
-This was created to fill in for the various `man` and `--help` pages
+Shelp was created to help out the various `man` and `--help` pages
 missing decent examples.
 
-The focus is clear examples and explanations of shell tasks.
+The aim is examples of common shell tasks with details on when and why
+you would use them.
 
 
 ## View online or install
 
-You can view these pages on
-[GitHub](https://github.com/MattMS/shelp/tree/master/command#readme)
-or install the
-[Node.js](http://nodejs.org/) package for console access.
+You can
+[view these pages on GitHub](https://github.com/MattMS/shelp/tree/master/command#readme)
+or
+[install the package from NPM](https://www.npmjs.com/package/shelp)
+for console access:
 
 	npm install -g shelp
 
