@@ -62,6 +62,15 @@ The stage is where you can work on changes before committing them.
 - [tag](./tag/) to add, manage and view tags.
 
 
+## Remotes
+
+- [pull](./pull/) to get and apply changes from a remote.
+
+- [push](./push/) to send your changes to a remote.
+
+- [remote](./remote/) to view and manage remotes.
+
+
 ## Links
 
 - [git on Wikipedia](https://en.wikipedia.org/wiki/Git_%28software%29)
