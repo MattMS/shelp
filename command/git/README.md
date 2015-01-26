@@ -40,6 +40,8 @@ The stage is where you can work on changes before committing them.
 
 - [mv](./mv/) to move or rename files.
 
+- [reset](./reset/) to undo changes since the last commit.
+
 - [rm](./rm/) to delete files.
 
 
