@@ -72,6 +72,13 @@ They are useful for testing ideas that may be saved or discarded later.
 
 ## Remotes
 
+Remotes are copies of your repository stored at other locations.
+
+They may have different branches and changes that you can pull into your
+local repository.
+They may also be the central repository of your code that you push to,
+like GitHub.
+
 - [pull](./pull/) to get and apply changes from a remote.
 
 - [push](./push/) to send your changes to a remote.
