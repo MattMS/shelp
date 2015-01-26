@@ -43,6 +43,15 @@ The stage is where you can work on changes before committing them.
 - [rm](./rm/) to delete files.
 
 
+## Branches
+
+- [branch](./branch/) to view and manage branches.
+
+- [checkout](./checkout/) to create or move to another branch.
+
+- [stash](./stash/) for saving changes while moving between branches.
+
+
 ## History
 
 - [tag](./tag/) to add, manage and view tags.
