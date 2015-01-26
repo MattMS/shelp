@@ -61,6 +61,8 @@ The stage is where you can work on changes before committing them.
 
 ## History
 
+- [log](./log/) to view commits on the current branch.
+
 - [tag](./tag/) to add, manage and view tags.
 
 
