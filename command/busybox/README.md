@@ -9,7 +9,7 @@ This performs the `ls -l` command.
 
 ## Commands
 
-- `[` `[[`
+- `[` `[[`, see [test](../test/)
 
 - adjtimex ar arp arping ash awk
 
@@ -57,9 +57,10 @@ This performs the `ls -l` command.
   sha512sum [sleep](../sleep/) sort start-stop-daemon stat static-sh
   strings stty su sulogin swapoff swapon switch_root sync sysctl syslogd
 
-- [tac](../tac/) [tail](../tail/) [tar](../tar/) taskset tee telnet
-  telnetd test tftp [time](../time/) timeout [top](../top/)
-  [touch](../touch/) tr traceroute traceroute6 true tty tunctl
+- [tac](../tac/) [tail](../tail/) [tar](../tar/) taskset [tee](../tee/)
+  telnet telnetd [test](../test/) tftp [time](../time/) timeout
+  [top](../top/) [touch](../touch/) tr traceroute traceroute6 true tty
+  tunctl
 
 - udhcpc udhcpd [umount](../umount/) uname uncompress unexpand uniq
   unix2dos unlzma unxz [unzip](../unzip/) uptime usleep uudecode
