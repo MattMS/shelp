@@ -24,7 +24,7 @@ end
 
 ### Permissions
 
-- Executable file with `-w`
+- Executable file with `-x`
 
 - Readable file with `-r`
 
