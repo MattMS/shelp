@@ -1,5 +1,7 @@
 # busybox
 
+> The Swiss Army Knife of Embedded Linux
+
 Contains many of the most common commands.
 
 	busybox ls -l
