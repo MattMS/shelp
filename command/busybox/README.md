@@ -13,7 +13,7 @@ This performs the `ls -l` command.
 
 - `[` `[[`, see [test](../test/)
 
-- adjtimex ar arp arping ash awk
+- adjtimex ar arp arping ash [awk](../awk/)
 
 - basename blockdev brctl bunzip2 bzcat bzip2
 
