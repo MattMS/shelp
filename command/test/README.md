@@ -13,13 +13,7 @@ end
 
 - File is not empty (size not 0) with `-s`
 
-- Folder with `-d`
-
 - Path exists with `-e`
-
-- Regular file with `-f`
-
-- Symbolic link with `-L`
 
 
 ### Permissions
@@ -29,3 +23,12 @@ end
 - Readable file with `-r`
 
 - Writable file with `-w`
+
+
+### Types
+
+- Folder with `-d`
+
+- Regular file with `-f`
+
+- Symbolic link with `-L`
