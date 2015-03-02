@@ -22,4 +22,3 @@ Steps I use to clean up and upgrade packages:
 
 	sudo apt-get update
 	sudo apt-get dist-upgrade
-	sudo apt-get clean
