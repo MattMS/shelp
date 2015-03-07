@@ -52,3 +52,12 @@ This is updated between restarts.
 
 It also creates environment variables prefixed with `MY_ALIAS_`.
 These are not updated between restarts, so hosts is better.
+
+
+## Sharing folders
+
+This will replace the contents of the folder in the container.
+
+Share folder on Windows using Boot2Docker:
+
+	docker run -v /c/Users/my_name/Documents/Docker/srv:/srv my_image_name
