@@ -21,10 +21,14 @@ Print help on a single command:
 - [run](./run/) to run a command in a new container.
 
 
-### Resource commands
+### View resources
 
 - [images](./images/) to print images.
 
 - [logs](./logs/) to print the output of a container.
 
+- [port](./port/) to print ports used by containers.
+
 - [ps](./ps/) to print running containers.
+
+- [top](./top/) to print processes running in a container.
