@@ -2,6 +2,8 @@
 
 Linux container management.
 
+"Containers" are working machines started from "images".
+
 
 ## Help
 
