@@ -18,7 +18,24 @@ Print help on a single command:
 
 ## Commands
 
+### Manage containers
+
+- [rm](./rm/) to delete a non-running container.
+
 - [run](./run/) to run a command in a new container.
+
+- [start](./start/) to start a stopped container.
+
+- [stop](./stop/) to stop a running container.
+
+
+### Manage images
+
+- [rmi](./rmi/) to delete an image.
+
+- `pull` to download an image.
+
+- `push` to upload an image.
 
 
 ### View resources
