@@ -15,6 +15,13 @@ Apart from the "connect" examples, the rest are done when logged in.
 	exit
 
 
+## Sessions
+
+Get count of current sessions.
+
+	select count(*) from v$session;
+
+
 ## View table details
 
 	describe my_table_name
