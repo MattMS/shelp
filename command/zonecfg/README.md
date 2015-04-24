@@ -1,5 +1,9 @@
 # zonecfg
 
-Man page contains useful descriptions:
+Print configuration for a command file:
 
-	man zonecfg
+	zonecfg -z my_zone export
+
+Print current configuration:
+
+	zonecfg -z my_zone info
