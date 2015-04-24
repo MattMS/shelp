@@ -1,13 +1,21 @@
 # zoneadm list
 
-## List zone names
+## Zone names
 
 	zoneadm list
 
 Each name is on a new line.
 
 
-## List zone details in CSV
+## Configured zones
+
+	zoneadm list -cv
+
+`-c` includes configured zones.
+`-v` provides extra output.
+
+
+## Zone details in CSV
 
 	zoneadm list -p
 
