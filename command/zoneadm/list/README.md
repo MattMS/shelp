@@ -1,28 +1,32 @@
 # zoneadm list
 
-## Zone names
-
-	zoneadm list
-
-Each name is on a new line.
-
-
-## Configured zones
+Prints each zone on a new line.
 
 	zoneadm list -cv
 
-`-c` includes configured zones.
-`-v` provides extra output.
+
+## Status
+
+Only running by default:
+
+	zoneadm list
 
 
-## Zone details in CSV
+### Configured and running
 
-	zoneadm list -p
+	zoneadm list -c
 
-Each zone is on a new line.
-Values are separated by colons (:).
 
-Values are:
+### Installed and running
+
+	zoneadm list -i
+
+
+## Output style
+
+Default output is only the zone name.
+
+`-p` and `-v` columns are:
 
 - ID number
 
@@ -37,3 +41,15 @@ Values are:
 - Brand
 
 - IP
+
+
+### Table (verbose)
+
+	zoneadm list -v
+
+
+### Zone details in CSV
+
+	zoneadm list -p
+
+Values are separated by colons (:).
