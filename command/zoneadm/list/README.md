@@ -36,11 +36,15 @@ Default output is only the zone name.
 
 - Path
 
-- UUID
+- UUID (`-p` only)
 
 - Brand
 
 - IP
+
+- r/w (`-p` only)
+
+- file mac profile (`-p` only)
 
 
 ### Table (verbose)
