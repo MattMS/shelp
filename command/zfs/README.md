@@ -26,8 +26,6 @@ Only used under special circumstances.
 
 ## Subcommands
 
-- allow
-
 - create
 
 - destroy
@@ -44,8 +42,6 @@ Only used under special circumstances.
 
 - share
 
-- unallow
-
 - unmount
 
 - unshare
@@ -58,6 +54,19 @@ Only used under special circumstances.
 - clone
 
 - promote
+
+
+### Permissions
+
+Grant permissions to other users for administering ZFS file systems in a
+storage pool.
+Generally the ability to use a subcommand or change a property.
+
+	man zfs_allow
+
+- allow
+
+- unallow
 
 
 ### Properties
