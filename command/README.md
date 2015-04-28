@@ -126,8 +126,9 @@
 
 ## Scripting
 
-- [node](./node/) to run `.js` scripts.
+- [node](./node/) to run `.js` scripts,
+  [coffee](./coffee/) to run `.coffee` scripts and
   [npm](./npm/) to install packages.
 
-- [python](./python/) to run `.py` scripts.
+- [python](./python/) to run `.py` scripts and
   [pip](./pip/) to install packages.
