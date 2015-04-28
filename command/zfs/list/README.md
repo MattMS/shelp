@@ -7,6 +7,10 @@
 
 ## Sorting
 
+Print datasets from least to most space available:
+
+	zfs list -s avail
+
 Print datasets from most to least space used:
 
 	zfs list -S used
