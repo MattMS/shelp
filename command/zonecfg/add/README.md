@@ -2,28 +2,28 @@
 
 ## Resources
 
-- admin
+- [admin](./admin/)
 
 - anet
 
-- attr
+- [attr](./attr/)
 
-- capped-cpu
+- [capped-cpu](./capped-cpu/)
 
-- capped-memory
+- [capped-memory](./capped-memory/)
 
 - [dataset](./dataset/)
 
-- dedicated-cpu
+- [dedicated-cpu](./dedicated-cpu/)
 
-- device
+- [device](./device/)
 
-- fs
+- [fs](./fs/)
 
-- net
+- [net](./net/)
 
-- rctl
+- [rctl](./rctl/)
 
-- rootzpool
+- [rootzpool](./rootzpool/)
 
-- zpool
+- [zpool](./zpool/)

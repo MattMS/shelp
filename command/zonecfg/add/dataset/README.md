@@ -2,4 +2,6 @@
 
 ## Attributes
 
+- alias
+
 - name
