@@ -26,11 +26,11 @@ Only used under special circumstances.
 
 ## Subcommands
 
-- create
+- [create](./create/) a filesystem or volume.
 
-- destroy
+- [destroy](./destroy/) a filesystem or snapshot.
 
-- diff
+- [diff](./diff/)
 
 - [help](./help/) to print information on subcommands.
 
@@ -51,7 +51,7 @@ Only used under special circumstances.
 
 ### Clone
 
-- clone
+- [clone](./clone/) a snapshot of a dataset.
 
 - promote
 

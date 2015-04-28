@@ -1,6 +1,6 @@
 # zfs get
 
-Can get any [set](../set/) properties.
+Can get any [set](../set/) properties also.
 
 
 ## Read-only native properties
