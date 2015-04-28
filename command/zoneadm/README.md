@@ -17,13 +17,9 @@ usage and a list of subcommands.
 
 	zoneadm -z my_zone boot
 
-- [attach](./attach/)
-
 - [boot](./boot/)
 
 - [clone](./clone/)
-
-- [detach](./detach/)
 
 - [halt](./halt/)
 
@@ -36,3 +32,10 @@ usage and a list of subcommands.
 - [shutdown](./shutdown/)
 
 - [verify](./verify/)
+
+
+### Migration
+
+- [attach](./attach/)
+
+- [detach](./detach/)
