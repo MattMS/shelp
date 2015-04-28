@@ -25,19 +25,11 @@ List "add" subcommand usage options (no descriptions):
 
 - [export](./export/)
 
-- [history](./history/)
-
 - [import](./import/)
-
-- [iostat](./iostat/)
-
-- [list](./list/)
 
 - [scrub](./scrub/)
 
 - [split](./split/)
-
-- [status](./status/)
 
 - [upgrade](./upgrade/)
 
@@ -59,6 +51,17 @@ List "add" subcommand usage options (no descriptions):
 - [remove](./remove/)
 
 - [replace](./replace/)
+
+
+### View information
+
+- [history](./history/) for a list of commands run.
+
+- [iostat](./iostat/) for storage capacity and usage.
+
+- [list](./list/) for pool health.
+
+- [status](./status/) for detailed health.
 
 
 ### Properties
