@@ -19,15 +19,9 @@ List "add" subcommand usage options (no descriptions):
 
 ## Subcommands
 
-- [add](./add/)
-
-- [attach](./attach/)
-
-- [clear](./clear/)
+- [create](./create/)
 
 - [destroy](./destroy/)
-
-- [detach](./detach/)
 
 - [export](./export/)
 
@@ -39,14 +33,6 @@ List "add" subcommand usage options (no descriptions):
 
 - [list](./list/)
 
-- [offline](./offline/)
-
-- [online](./online/)
-
-- [remove](./remove/)
-
-- [replace](./replace/)
-
 - [scrub](./scrub/)
 
 - [split](./split/)
@@ -56,41 +42,30 @@ List "add" subcommand usage options (no descriptions):
 - [upgrade](./upgrade/)
 
 
+### Devices
+
+- [add](./add/)
+
+- [attach](./attach/)
+
+- [clear](./clear/)
+
+- [detach](./detach/)
+
+- [offline](./offline/)
+
+- [online](./online/)
+
+- [remove](./remove/)
+
+- [replace](./replace/)
+
+
 ### Properties
 
 - [get](./get/)
 
 - [set](./set/)
-
-
-## Health
-
-Hot spares can be added to come online if an active device fails.
-
-
-### Pool
-
-- "Degraded": some failed devices but data is still available.
-
-- "Online": all devices operating normally.
-
-- "Suspended": waiting for a device issue to be resolved.
-
-- "Unavail": failed or corrupted devices preventing usage.
-
-
-### Device
-
-- "Degraded": checksum or IO errors exceeds acceptable level.
-
-- "Offline": device was specifically taken offline.
-
-- "Online": functioning normally.
-
-- "Removed": device was physically removed.
-  Reattaching the device should bring it back "online" automatically.
-
-- "Unavail": device could not be opened.
 
 
 ## Virtual devices (vdevs)
@@ -99,6 +74,8 @@ A zpool is a collection of virtual devices.
 
 Virtual devices cannot be nested.
 A "mirror" or "raidz" device can only contain disks or files.
+
+Hot spares can be added to come online if an active device fails.
 
 
 ### Device types
