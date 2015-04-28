@@ -1,14 +1,5 @@
 # zonecfg
 
-Print configuration for a command file:
-
-	zonecfg -z my_zone export
-
-Print current configuration:
-
-	zonecfg -z my_zone info
-
-
 ## Global properties
 
 - autoboot
@@ -97,11 +88,11 @@ Multiple subcommands can be separated with semicolons (;).
 
 - exit
 
-- export
+- [export](./export/) to print the configuration for a command file.
 
 - help
 
-- info
+- [info](./info/) to print the current configuration.
 
 - remove
 
