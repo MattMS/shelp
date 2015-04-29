@@ -34,8 +34,6 @@ Only used under special circumstances.
 
 - [help](./help/) to print information on subcommands.
 
-- key
-
 - mount
 
 - rename
@@ -56,19 +54,6 @@ Only used under special circumstances.
 - promote
 
 
-### Permissions
-
-Grant permissions to other users for administering ZFS file systems in a
-storage pool.
-Generally the ability to use a subcommand or change a property.
-
-	man zfs_allow
-
-- allow
-
-- unallow
-
-
 ### Properties
 
 Native properties control ZFS behaviour.
@@ -83,6 +68,22 @@ They have no effect on ZFS behaviour.
 - [list](./list/) to print property information.
 
 - [set](./set/)
+
+
+### Security
+
+Grant permissions to other users for administering ZFS file systems in a
+storage pool.
+Generally the ability to use a subcommand or change a property.
+
+- allow
+
+- [key](./key/) to create, change or load/unload a dataset key.
+
+- unallow
+
+	man zfs_allow
+	man zfs_encrypt
 
 
 ### Snapshot
