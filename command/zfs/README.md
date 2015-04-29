@@ -34,24 +34,25 @@ Only used under special circumstances.
 
 - [help](./help/) to print information on subcommands.
 
-- mount
+- `rename` to rename a dataset, share or snapshot.
 
-- rename
-
-- share
-
-- unmount
-
-- unshare
-
-- upgrade
+- `upgrade` identifies the filesystem version.
+  Add `-a` to perform the upgrade.
 
 
 ### Clone
 
 - [clone](./clone/) a snapshot of a dataset.
 
-- promote
+- `promote` a cloned filesystem to remove the snapshot dependency.
+  This allows the original snapshot to be deleted.
+
+
+### Mounting filesystems
+
+- `mount` to show mounted filesystems or mount a new one.
+
+- `unmount` to unmount a filesystem.
 
 
 ### Properties
@@ -84,6 +85,15 @@ Generally the ability to use a subcommand or change a property.
 
 	man zfs_allow
 	man zfs_encrypt
+
+
+### Share
+
+- share
+
+- unshare
+
+	man zfs_share
 
 
 ### Snapshot
