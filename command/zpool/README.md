@@ -88,3 +88,8 @@ Hot spares can be added to come online if an active device fails.
 Using a full disk is preferred to using parts of a disk.
 
 Using regular files as devices is strongly discouraged.
+
+
+## Links
+
+- [illumos man page](http://illumos.org/man/1m/zpool)

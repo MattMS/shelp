@@ -35,3 +35,8 @@ Multiple subcommands can be separated with semicolons (;).
 - [set](./set/)
 
 - verify
+
+
+## Links
+
+- [illumos man page](http://illumos.org/man/1m/zonecfg)

@@ -36,3 +36,8 @@ This is useful if other login types have failed.
 
 This can only be done as `root` and not to a zone console (`-C`).
 It does not invoke `login` or `su`.
+
+
+## Links
+
+- [illumos man page](http://illumos.org/man/1/zlogin)
