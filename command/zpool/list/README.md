@@ -16,3 +16,12 @@ Lists all pools if no parameters are given.
 - "SUSPENDED": waiting for a device issue to be resolved.
 
 - "UNAVAIL": failed or corrupted devices preventing usage.
+
+
+## Select properties to show
+
+This is the default selection:
+
+	zpool list -o name,size,allocated,free,capacity,dedupratio,health,altroot
+
+Names of properties are in [zpool get](../get/).
