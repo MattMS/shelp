@@ -21,38 +21,41 @@ List "add" subcommand usage options (no descriptions):
 
 ## Subcommands
 
-- [create](./create/)
+- [create](./create/) a new pool.
 
-- [destroy](./destroy/)
+- [destroy](./destroy/) a pool.
 
-- [export](./export/)
+- [export](./export/) a pool with unmounted devices.
 
-- [import](./import/)
+- [import](./import/) pools, or list importable pools.
 
-- [scrub](./scrub/)
+- [scrub](./scrub/) to verify data checksums are correct.
 
-- [split](./split/)
+- [split](./split/) mirrored disks into a new pool.
 
-- [upgrade](./upgrade/)
+- [upgrade](./upgrade/) to view current and possible versions.
 
 
 ### Devices
 
-- [add](./add/)
+- [add](./add/) a device to the pool.
 
-- [attach](./attach/)
-
-- [clear](./clear/)
-
-- [detach](./detach/)
+- [clear](./clear/) device errors in a pool.
 
 - [offline](./offline/)
 
 - [online](./online/)
 
-- [remove](./remove/)
+- [remove](./remove/) a device from a pool.
 
-- [replace](./replace/)
+- [replace](./replace/) old device with a new one.
+
+
+### Mirrored devices
+
+- [attach](./attach/) a device to a mirrored device.
+
+- [detach](./detach/) a device from a mirrored pool.
 
 
 ### View information
