@@ -1,9 +1,11 @@
 # zpool
 
-`zpool` will throw an error requesting a command.
+Configure ZFS storage pools.
 
 `zpool` does not take into account space used by ZFS internally, but
 [zfs](../zfs/) does.
+
+Without arguments, it will throw an error requesting a command.
 
 
 ## Help
