@@ -132,3 +132,16 @@
 
 - [python](./python/) to run `.py` scripts and
   [pip](./pip/) to install packages.
+
+
+## Solaris
+
+- [zfs](./zfs/)
+
+- [zlogin](./zlogin/)
+
+- [zoneadm](./zoneadm/)
+
+- [zonecfg](./zonecfg/)
+
+- [zpool](./zpool/)
