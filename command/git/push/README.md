@@ -6,3 +6,6 @@
 ## Send changes on master branch to origin
 
 	git push origin master
+
+This will create the branch on the remote server if it does not already
+exist.
