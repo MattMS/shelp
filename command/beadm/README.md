@@ -18,3 +18,8 @@ Manage ZFS Boot Environments.
 - rename a Boot Environment.
 
 - unmount a named Boot Environment.
+
+
+## Links
+
+- [illumos man page](http://illumos.org/man/1m/beadm)
