@@ -27,3 +27,8 @@ Prints the start of the commit ID and the first line of the message.
 	git log -n 2
 
 Only shows the last 2 commits.
+
+
+## Links
+
+- [Main docs](https://git-scm.com/docs/git-log)
