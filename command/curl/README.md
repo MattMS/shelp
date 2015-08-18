@@ -16,6 +16,19 @@ Save a file:
 	curl http://example.com/ > index.html
 
 
+## HTTP methods
+
+Method names must be specified in uppercase!
+
+Delete all documents in Elasticsearch:
+
+	curl --request DELETE http://localhost:9200/my_index/my_document_type/
+
+or
+
+	curl -X DELETE http://localhost:9200/my_index/my_document_type/
+
+
 ## Print HTTP headers and content (-i)
 
 	curl -i http://example.com/index.html
