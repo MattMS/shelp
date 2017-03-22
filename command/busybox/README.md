@@ -65,7 +65,8 @@ For `[` and `[[`, see [test](../test/).
 
 - [mkdir](../mkdir/)
   mkfifo mknod mkswap mktemp
-  mount mt
+  [mount](../mount/)
+  mt
 
 - pivot_root
   [pwd](../pwd/)
@@ -78,7 +79,7 @@ For `[` and `[[`, see [test](../test/).
 
 - [touch](../touch/)
 
-- [umount](../umount/)
+- umount
 
 - watch
 
@@ -105,7 +106,7 @@ For `[` and `[[`, see [test](../test/).
 
 - arp arping
 
-- brctl
+- [brctl](../brctl/)
 
 - dnsdomainname
 
@@ -144,6 +145,8 @@ For `[` and `[[`, see [test](../test/).
 
 - env
 
+- [fuser](../fuser/)
+
 - ionice
 
 - [kill](../kill/)
@@ -180,7 +183,9 @@ For `[` and `[[`, see [test](../test/).
 
 ## System
 
-- depmod dmesg dpkg dpkg-deb
+- depmod dmesg
+  [dpkg](../dpkg/)
+  dpkg-deb
 
 - init insmod
 
@@ -203,7 +208,7 @@ For `[` and `[[`, see [test](../test/).
 
 - halt
 
-- poweroff
+- [poweroff](../poweroff/)
 
 - reboot
 
@@ -231,6 +236,7 @@ For `[` and `[[`, see [test](../test/).
 - rev
 
 - [sed](../sed/)
+  [split](../split/)
   sort
 
 - tr
@@ -285,7 +291,7 @@ For `[` and `[[`, see [test](../test/).
 
 - run-parts
 
-- [sleep](../sleep/)
+- sleep
 
 - [test](../test/)
   true
