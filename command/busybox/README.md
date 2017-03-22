@@ -11,114 +11,336 @@ This performs the `ls -l` command.
 For `[` and `[[`, see [test](../test/).
 
 
-## Commands
+## App
 
-- ar arp arping [ash](../ash/) [awk](../awk/)
+- [cal](../cal/)
 
-- basename blockdev bunzip2 brctl bzcat bzip2
 
-- [cal](../cal/) [cat](../cat/) [chgrp](../chgrp) [chmod](../chmod/)
-  [chown](../chown/) chpasswd chroot chvt clear cmp [cp](../cp/) cpio
-  [crontab](../crontab/) cttyhack cut
+## Compression
 
-- [date](../date/) [dc](../dc/) [dd](../dd/) deallocvt depmod
-  [df](../df/) [diff](../diff/) dirname dmesg dnsdomainname dpkg
-  dpkg-deb [du](../du/)
+- ar
 
-- [echo](../echo/) [ed](../ed/) egrep env expand expr
- 
-- false fdisk fgrep [find](../find/) fold [free](../free/)
- 
-- getopt getty [grep](../grep/) groups [gunzip](../gunzip/)
+- bunzip2 bzcat bzip2
+
+- [gunzip](../gunzip/)
   [gzip](../gzip/)
 
-- halt [head](../head/) hexdump hostid hostname hwclock
+- lzcat lzma
 
-- id ifconfig ifdown ifup init insmod ionice [ip](../ip/)
+- [md5sum](../md5sum/)
 
-- [kill](../kill/) killall
+- [sha1sum](../sha1sum/)
+  sha256sum sha512sum
 
-- last [less](../less/) [ln](../ln/) logger login
-  logname losetup [ls](../ls/) lsmod lzcat lzma
+- [tar](../tar/)
 
-- [md5sum](../md5sum/) mdev [mkdir](../mkdir/) mkfifo mknod mkswap
-  mktemp modinfo modprobe [more](../more/) mount mt [mv](../mv/)
+- uncompress unlzma unxz
+  [unzip](../unzip/)
+  uudecode uuencode
 
-- nameif nc netstat nslookup
-
-- od openvt
-
-- passwd patch pidof [ping](../ping/) ping6 pivot_root poweroff printf
-  [ps](../ps/) [pwd](../pwd/)
-
-- readlink reboot renice reset rev [rm](../rm/) [rmdir](../rmdir/) rmmod
-  route rpm rpm2cpio run-parts
-
-- sed seq setkeycodes setsid sh [sha1sum](../sha1sum/) sha256sum
-  sha512sum [sleep](../sleep/) sort start-stop-daemon stat static-sh
-  strings stty su sulogin swapoff swapon switch_root sync sysctl
-
-- [tac](../tac/) [tail](../tail/) [tar](../tar/) taskset [tee](../tee/)
-  telnet [test](../test/) [time](../time/) timeout [top](../top/)
-  [touch](../touch/) tr traceroute6 true tty
-
-- [umount](../umount/) uname uncompress unexpand uniq unlzma unxz
-  [unzip](../unzip/) uptime
-
-- vi
-
-- watch [wc](../wc/) wget [which](../which/) who whoami
-
-- xargs xz xzcat
-
-- yes
+- xz xzcat
 
 - zcat
 
 
-## Daemons
+## File/folder
 
-- crond
+- basename
 
-- httpd
+- [chgrp](../chgrp/)
+  [chmod](../chmod/)
+  [chown](../chown/)
+  cmp
+  [cp](../cp/)
+  cpio
+
+- [dd](../dd/)
+  dirname
+
+- [find](../find/)
+
+- [ln](../ln/)
+  [ls](../ls/)
+  [mv](../mv/)
+
+- [mkdir](../mkdir/)
+  mkfifo mknod mkswap mktemp
+  mount mt
+
+- pivot_root
+  [pwd](../pwd/)
+
+- readlink
+  [rm](../rm/)
+  [rmdir](../rmdir/)
+
+- stat swapoff swapon switch_root
+
+- [touch](../touch/)
+
+- [umount](../umount/)
+
+- watch
+
+
+### View file contents
+
+- [cat](../cat/)
+
+- [head](../head/)
+  hexdump
+
+- [less](../less/)
+
+- [more](../more/)
+
+- od
+
+- [tac](../tac/)
+  [tail](../tail/)
+  [tee](../tee/)
+
+
+## Network
+
+- arp arping
+
+- brctl
+
+- dnsdomainname
+
+- ftpget ftpput
+
+- hostid hostname httpd
+
+- ifconfig ifdown ifup
+  [ip](../ip/)
+  ipcalc
+
+- nameif
+  [nc](../nc/)
+  netstat nslookup
+
+- [ping](../ping/)
+  ping6
+
+- route
+
+- telnet telnetd tftp traceroute traceroute6
+
+- vconfig
+
+- wget
+
+
+### DHCP
+
+- dumpleases
+
+- udhcpc udhcpd
+
+
+## Processes
+
+- env
+
+- ionice
+
+- [kill](../kill/)
+  killall
+
+- [lsof](../lsof/)
+
+- pidof
+  [ps](../ps/)
+
+- renice
+
+- setsid
+
+- [time](../time/)
+  timeout
+  [top](../top/)
+
+- uptime
+
+- [which](../which/)
+
+
+## Resources
+
+- [df](../df/)
+  [du](../du/)
+
+- fdisk
+  [free](../free/)
+
+- taskset
+
+
+## System
+
+- depmod dmesg dpkg dpkg-deb
+
+- init insmod
 
 - klogd
 
-- syslogd
+- logger losetup lsmod
 
-- telnetd
+- modinfo modprobe
+
+- rmmod rpm rpm2cpio
+
+- setkeycodes start-stop-daemon static-sh sync sysctl syslogd
+
+- uname
+
+- watchdog
 
 
-## System calls
+### Power
+
+- halt
+
+- poweroff
+
+- reboot
+
+
+## Text processing
+
+- [awk](../awk/)
+
+- [cut](./cut/)
+
+- [diff](../diff/)
+  dos2unix
+
+- [ed](../ed/)
+  [egrep](../grep/)
+  expand
+
+- [fgrep](../grep/)
+  fold
+
+- [grep](../grep/)
+
+- patch
+
+- rev
+
+- [sed](../sed/)
+  sort
+
+- tr
+
+- unexpand uniq unix2dos
+
+- vi
+
+- [wc](../wc/)
+
+
+### Text output
+
+- [echo](../echo/)
+
+- printf
+
+- seq
+  strings
+
+- yes
+
+
+## Users
+
+- chpasswd chroot
+
+- groups
+
+- id
+
+- last logname
+
+- passwd
+
+- who whoami
+
+
+### Scripting
+
+- crond
+  [crontab](../crontab/)
+
+- [date](../date/)
+  [dc](../dc/)
+
+- expr
+
+- false
+
+- getopt
+
+- run-parts
+
+- [sleep](../sleep/)
+
+- [test](../test/)
+  true
+
+- xargs
+
+
+### Terminal
+
+- [ash](../ash/)
+
+- chvt
+  clear
+
+- getty
+
+- login
+
+- openvt
+
+- reset
+
+- sh stty su sulogin
+
+- tty
+
+
+## More
+
+- blockdev
+
+- cttyhack
+
+- deallocvt dumpkmap
+
+- freeramdisk
+
+- hwclock
+
+- loadfont loadkmap logread
+
+- mdev microcom
+
+- rdate
+
+- tunctl
+
+
+## System functions
 
 - adjtimex
 
 - realpath
 
 - usleep
-
-
-## More
-
-- dos2unix dumpkmap dumpleases
-
-- freeramdisk ftpget ftpput
-
-- ipcalc
-
-- loadfont loadkmap logread
-
-- microcom
-
-- rdate
-
-- tftp traceroute tunctl
-
-- udhcpc udhcpd unix2dos uudecode uuencode
-
-- vconfig
-
-- watchdog
 
 
 ## Links
