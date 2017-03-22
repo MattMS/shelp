@@ -2,6 +2,8 @@
 
 Listen for or launch TCP/UDP connections.
 
+Busybox includes `awk`, thus Alpine Linux does.
+
 
 ## Port scan
 
