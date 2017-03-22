@@ -1,14 +1,13 @@
 # coffee
 
-Run [CoffeeScript](http://coffeescript.org/) files or compile them to
-Javascript.
+Run [CoffeeScript](http://coffeescript.org/) files or compile them to Javascript.
 
 
 ## Install
 
-You will need [io.js](https://iojs.org/) or
-[Node.js](https://nodejs.org/) installed, both of which should come with
-[NPM](https://www.npmjs.com/).
+You will need [Node.js](https://nodejs.org/) installed, which comes with [NPM](https://www.npmjs.com/).
+
+Then install the `coffee` command globally:
 
 	npm install -g coffee-script
 
