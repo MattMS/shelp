@@ -89,13 +89,13 @@ For `[` and `[[`, see [test](../test/).
 - [cat](../cat/)
 
 - [head](../head/)
-  hexdump
+  [hexdump](../hexdump/)
 
 - [less](../less/)
 
 - [more](../more/)
 
-- od
+- [od](../od/)
 
 - [tac](../tac/)
   [tail](../tail/)
