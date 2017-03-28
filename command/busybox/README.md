@@ -254,7 +254,7 @@ For `[` and `[[`, see [test](../test/).
 
 - [echo](../echo/)
 
-- printf
+- [printf](../printf/)
 
 - seq
   strings
