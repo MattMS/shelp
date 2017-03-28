@@ -4,6 +4,9 @@ Copy files or folders.
 
 	cp my_file my_new_file
 
+
+## Availability
+
 Busybox includes `cp`, thus Alpine Linux does.
 
 Alpine path: /bin/cp

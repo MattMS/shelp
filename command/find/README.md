@@ -5,6 +5,11 @@ start from the root directory.
 This means the entire file-system will be searched.
 
 
+## Availability
+
+Alpine path: /usr/bin/find
+
+
 ## Search for file name
 
 	find / -name "my_file_name"

@@ -1,5 +1,7 @@
 # cut
 
+## Availability
+
 Busybox includes `cut`, thus Alpine Linux does.
 
 Alpine path: /usr/bin/cut
