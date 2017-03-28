@@ -8,6 +8,9 @@ Change the group of all files and folders in a folder:
 
 	chgrp -R my_group my_folder
 
+
+## Availability
+
 Busybox includes `chgrp`, thus Alpine Linux does.
 
 Alpine path: /bin/chgrp

@@ -8,6 +8,9 @@ Alternative to [ncal](../ncal/).
 
 Displays the week days horizontally.
 
+
+## Availability
+
 Busybox includes `cal`, thus Alpine Linux does.
 
 Alpine path: /usr/bin/cal

@@ -5,6 +5,11 @@ Download content from the Internet.
 Alternative to `wget`.
 
 
+## Availability
+
+Not included in Alpine Linux.
+
+
 ## Download content
 
 Print to `stdout`:

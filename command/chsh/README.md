@@ -1,8 +1,6 @@
-# bc
+# chsh
 
-Start an interactive calculator:
-
-	bc -i
+Change the login shell.
 
 
 ## Availability

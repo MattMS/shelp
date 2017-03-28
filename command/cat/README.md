@@ -4,6 +4,9 @@ Print contents of a file:
 
 	cat my_file
 
+
+## Availability
+
 Busybox includes `cat`, thus Alpine Linux does.
 
 Alpine path: /bin/cat

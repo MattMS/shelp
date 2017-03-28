@@ -8,6 +8,9 @@ Commands take the form:
 
 	condition {action}
 
+
+## Availability
+
 Busybox includes `awk`, thus Alpine Linux does.
 
 Alpine path: /usr/bin/awk

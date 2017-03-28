@@ -2,6 +2,9 @@
 
 Change the user access permissions on a file.
 
+
+## Availability
+
 Busybox includes `chmod`, thus Alpine Linux does.
 
 Alpine path: /bin/chmod
