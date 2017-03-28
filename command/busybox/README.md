@@ -217,6 +217,8 @@ For `[` and `[[`, see [test](../test/).
 
 - [awk](../awk/)
 
+- [base64](../base64/)
+
 - [cut](./cut/)
 
 - [diff](../diff/)
