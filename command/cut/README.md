@@ -2,6 +2,8 @@
 
 Busybox includes `cut`, thus Alpine Linux does.
 
+Alpine path: /usr/bin/cut
+
 
 ## Fields (by delimiters)
 

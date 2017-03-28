@@ -4,6 +4,10 @@ Print contents of a file:
 
 	cat my_file
 
+Busybox includes `cat`, thus Alpine Linux does.
+
+Alpine path: /bin/cat
+
 
 ## Combine multiple files into one
 

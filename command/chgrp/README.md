@@ -7,3 +7,7 @@ Change the group of a single file:
 Change the group of all files and folders in a folder:
 
 	chgrp -R my_group my_folder
+
+Busybox includes `chgrp`, thus Alpine Linux does.
+
+Alpine path: /bin/chgrp

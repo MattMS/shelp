@@ -10,6 +10,8 @@ Commands take the form:
 
 Busybox includes `awk`, thus Alpine Linux does.
 
+Alpine path: /usr/bin/awk
+
 
 ## Print single field
 

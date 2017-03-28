@@ -2,6 +2,10 @@
 
 Change the user access permissions on a file.
 
+Busybox includes `chmod`, thus Alpine Linux does.
+
+Alpine path: /bin/chmod
+
 
 ## Setting permissions with numbers
 
